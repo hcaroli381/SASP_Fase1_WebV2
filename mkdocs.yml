@@ -6,5 +6,5 @@ nav:
   - ODS: ods.md
   - Reflexiones: reflexiones.md
 
-theme: readthedocs
+theme: windmill
 language: es

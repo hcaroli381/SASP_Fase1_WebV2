@@ -2,7 +2,7 @@
 
 # ODS 10: Reducción de la desigualdad
 
-![ODSMundo](../img/ODS-Fundesplai.jpg)
+![ODSMundo](./images/img-00.webp)
 
 El Objetivo de Desarrollo Sostenible 10 busca la reducción de las leyes que suponen desigualdades y la diferencia de ingresos entre países.
 

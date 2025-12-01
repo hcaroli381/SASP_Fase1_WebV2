@@ -1,5 +1,4 @@
 # REFLEXIONES
 
-Lorem ipsum
-
-Lorem ipsum
+Un programador tiene responsabilidad por ejemplo en la eficiencia de un código, si cada código que ejecutamos en un día es óptimo el ahorro final puede ser enorme. En mi trabajo diario, prácticas como apagar mi PC cuando no lo estoy usando o usar bajar las prestaciones de mi ordenador portátil podrían ser importantes a la larga, las empresas tienen un papel importantísimo, además de sus desechos, tienen el deber de hacer sus productos cada vez más eficientes en cuanto a gasto energético.
+Puede que el sector TIC esté evolucionando demasiado rápido si lo comparamos con la velocidad de las regulaciones que se aplican. Aunque todos tenemos límites debemos ceder en cuanto a comodidad si queremos que esto sea sostenible a largo plazo así que estoy dispuesto a seguir las indicaciones para lograrlo.

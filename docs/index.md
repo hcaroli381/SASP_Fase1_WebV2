@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Bienvenido al índice de mi Web de Sostenibilidad
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# 🌍 Bienvenido al índice de mi Web de Sostenibilidad
 
-## Commands
+Este es el punto de partida, el **índice** principal, desde donde podrás navegar a los diferentes apartados y temas de mi **mkdocs**.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+### 📚 Apartados Principales
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+A continuación, puedes acceder a las secciones clave de esta web. ¡Explora los temas que más te interesen!
+
+**Sostenibilidad**
+**ODS**
+**Reflexiones**
+
+---
+
+Espero que disfrutes de mi página web.
+
+

@@ -18,4 +18,4 @@ Estos deben interesar a las empresas de cara a inspecciones que vigilen que est√
 
 Todos los pa√≠ses que forman parte de la **ONU** promueven los objetivos que se declaran en los **ODS (Objetivos de Desarrollo Sostenible)** de la **Agenda 2030**.
 
-![TablaODS](../img/Screenshot_5.png)
+![TablaODS](./images/img-01.png)

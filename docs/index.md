@@ -1,4 +1,3 @@
-# Bienvenido al índice de mi Web de Sostenibilidad
 
 # 🌍 Bienvenido al índice de mi Web de Sostenibilidad
 

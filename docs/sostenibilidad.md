@@ -1,4 +1,4 @@
-# SOSTENIBILIDAD
+# ♻️SOSTENIBILIDAD
 
 La sostenibilidad es la capacidad de satisfacer las necesidades de la actualidad, sin afectar a los que vengan luego. En la tecnología, se refleja en innovar para reducir el impacto de los sistemas que utilizamos cada día y en la mejor utilización de la energía con la que se alimentan.
 
@@ -18,4 +18,4 @@ Estos deben interesar a las empresas de cara a inspecciones que vigilen que est�
 
 Todos los países que forman parte de la **ONU** promueven los objetivos que se declaran en los **ODS (Objetivos de Desarrollo Sostenible)** de la **Agenda 2030**.
 
-![TablaODS](./images/img-01.png)
+![TablaODS](./images/img-02.png)

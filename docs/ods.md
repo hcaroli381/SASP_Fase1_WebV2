@@ -37,4 +37,11 @@ El Objetivo de Desarrollo Sostenible 10 busca la reducción de las leyes que sup
 - **Indicador:** Proporción de personas que perciben haber sido discriminadas por motivos prohibidos.
 - **Indicador:** Número de países con políticas migratorias bien gestionadas.
 
-![tablaODS](../img/tablansjbufo.png)
+![tablaODS](../img/img-01.png)
+
+
+## Otros ODS relacionados
+
+- [ODS 17](https://joseasb.github.io/saspfase1_ampliar_web/ODS%2017%20Alianzas%20para%20lograr%20objetivos/): Cooperación entre gobiernos, sectores privados...
+- [ODS 8](https://amancab828.github.io/SASP_04/#ods8__): Trabajo digno y crecimiento económico
+- [ODS 3](https://jcanleo649.github.io/SASP_04/ods3/): Salud y bienestar
